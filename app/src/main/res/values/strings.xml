@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">examen_1</string>
+    <string-array name="autos">
+        <item>accent</item>
+        <item>tucsom</item>
+        <item>santafe</item>
+        <item>sportage</item>
+        <item>toyotarav</item>
+        <item>suzuki_celero</item>
+        <item>suzuki_s4</item>
+        <item>yaris</item>
+    </string-array>
+</resources>
